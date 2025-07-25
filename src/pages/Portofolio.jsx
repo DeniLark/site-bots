@@ -8,7 +8,7 @@ export const Portofolio = () => {
             <div>
                 <a className="button" href="#">Ссылка на бота</a>
                 {"   "}
-                <a className="button" href="#">Ссылка на репо</a>
+                <a className="button" href="https://github.com/DeniLark/ChuckNorrisJokesBot">Ссылка на репо</a>
             </div>
         </div>
 
