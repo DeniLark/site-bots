@@ -1,0 +1,21 @@
+.header {
+    position: fixed;
+    width: 100%;
+    text-align: right;
+    left: 0;
+    top: 0;
+    padding: 20px;
+
+    .link {
+        display: inline-block;
+        margin-left: 15px;
+        color: aquamarine;
+    }
+}
+
+// ---------
+.card {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
